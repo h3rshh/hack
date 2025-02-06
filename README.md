@@ -1,2 +1,2 @@
 # hack
-SPIT Hackathon
+SPce Hackathon
